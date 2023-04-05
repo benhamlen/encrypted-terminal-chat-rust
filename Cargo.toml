@@ -12,6 +12,6 @@ env_logger = "0.10.0"
 futures = "0.3.28"
 # libp2p = { version = "0.51.2", features = ["async-std", "gossipsub", "mdns", "noise", "macros", "tcp", "yamux"]}
 # libp2p-quic = { version = "0.6.1", features = ["async-std"]}
-openssl = "0.10.28"
+x25519_dalek = "1.2.0"
 # libp2p = { path = "../../libp2p", features = ["async-std", "gossipsub", "mdns", "noise", "macros", "tcp", "yamux"] }
 # libp2p-quic = { path = "../../transports/quic", features = ["async-std"] }
